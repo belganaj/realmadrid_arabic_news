@@ -14,25 +14,25 @@
       }
       ,
       {
-        "title":"مباريات اليوم",
+        "title":"المباريات",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/livetoday.html"
+          "http://217.69.12.121/realmadrid/match1.html"
         ]
       },
      
       {
-        "title":"مباريات الغد",
+        "title":"الترتيب",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/tomorrow.html"
+          "http://217.69.12.121/tartib/spain.html"
         ]
       },
       {
-        "title":"مباريات الامس",
+        "title":"اللاعبين",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/yesterday.html"
+          "http://217.69.12.121/realmadrid/players.html"
         ]
       }
     ,
@@ -48,7 +48,7 @@
   },
 
   {
-    "title":"مباريات اليوم",
+    "title":"المباريات",
     "drawable":"ic_anime",
     "submenu":"",
     "iap":false,
@@ -57,14 +57,14 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/livetoday.html"
+          "http://217.69.12.121/realmadrid/match1.html"
         ]
       }
     ]
   },
 
   {
-    "title":"مباريات الغد",
+    "title":"الترتيب",
     "drawable":"ic_hot",
     "submenu":"",
     "iap":false,
@@ -73,14 +73,14 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/tomorrow.html"
+          "http://217.69.12.121/tartib/spain.html"
         ]
       }
     ]
   },
 
   {
-    "title":"مباريات الامس",
+    "title":"اللاعبين",
     "drawable":"ic_action",
     "submenu":"",
     "iap":false,
@@ -89,7 +89,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/yesterday.html"
+          "http://217.69.12.121/realmadrid/players.html"
         ]
       }
     ]
